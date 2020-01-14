@@ -1,6 +1,8 @@
 Table Of Contents
  1) Installation
- 2) Project Describtion
- 3) File Describtion
+ 2) Project Description
+ 3) File Description
  4) Results
- 5) Licence, Authors
+ 5) Licensing , Authors
+ 
+ 
